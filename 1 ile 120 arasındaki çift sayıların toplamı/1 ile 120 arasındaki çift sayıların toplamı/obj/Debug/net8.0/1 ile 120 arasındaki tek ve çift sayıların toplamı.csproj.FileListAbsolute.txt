@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\bin\Debug\net8.0\1 ile 120 arasındaki tek ve çift sayıların toplamı.exe
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\bin\Debug\net8.0\1 ile 120 arasındaki tek ve çift sayıların toplamı.deps.json
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\bin\Debug\net8.0\1 ile 120 arasındaki tek ve çift sayıların toplamı.runtimeconfig.json
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\bin\Debug\net8.0\1 ile 120 arasındaki tek ve çift sayıların toplamı.dll
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\bin\Debug\net8.0\1 ile 120 arasındaki tek ve çift sayıların toplamı.pdb
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\obj\Debug\net8.0\1 ile 120 arasındaki tek ve çift sayıların toplamı.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\obj\Debug\net8.0\1 ile 120 arasındaki tek ve çift sayıların toplamı.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\obj\Debug\net8.0\1 ile 120 arasındaki tek ve çift sayıların toplamı.AssemblyInfo.cs
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\obj\Debug\net8.0\1 ile 120 arasındaki tek ve çift sayıların toplamı.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\obj\Debug\net8.0\1 ile 120 arasındaki tek ve çift sayıların toplamı.dll
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\obj\Debug\net8.0\refint\1 ile 120 arasındaki tek ve çift sayıların toplamı.dll
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\obj\Debug\net8.0\1 ile 120 arasındaki tek ve çift sayıların toplamı.pdb
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\obj\Debug\net8.0\1 ile 120 arasındaki tek ve çift sayıların toplamı.genruntimeconfig.cache
+D:\Yazılım\Repository\1 ile 120 arasındaki tek ve çift sayıların toplamı\1 ile 120 arasındaki tek ve çift sayıların toplamı\obj\Debug\net8.0\ref\1 ile 120 arasındaki tek ve çift sayıların toplamı.dll
